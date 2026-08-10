@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management AI Agent/3. Memori.md",
-                "mode": "source",
+                "file": "Memory Management AI Agent/4. H-Mem.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Memori"
+              "title": "4. H-Mem"
             }
           }
         ],
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "89a378bbe21c442a",
@@ -202,8 +203,9 @@
   },
   "active": "b1780b753ef93426",
   "lastOpenFiles": [
-    "Memory Management AI Agent/2. GAM.md",
     "Memory Management AI Agent/3. Memori.md",
+    "Memory Management AI Agent/4. H-Mem.md",
+    "Memory Management AI Agent/2. GAM.md",
     "Memory Management AI Agent/1. TA Mem.md",
     "career/Career plan.md",
     "Memory Management AI Agent",
@@ -234,7 +236,6 @@
     "PharmaLens/Pharamacist.md",
     "PharmaLens/laravel_cmd.md",
     "PharmaLens/DB schema.md",
-    "PharmaLens/Patient.md",
     "Prompt",
     "PharmaLens",
     "Claude Code",
