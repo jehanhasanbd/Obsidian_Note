@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management AI Agent/4. H-Mem.md",
-                "mode": "preview",
+                "file": "Memory Management AI Agent/7. xMemory.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. H-Mem"
+              "title": "7. xMemory"
             }
           }
         ],
@@ -197,14 +197,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "command-palette:Open command palette": true,
       "bases:Create new base": false
     }
   },
   "active": "b1780b753ef93426",
   "lastOpenFiles": [
-    "Memory Management AI Agent/3. Memori.md",
+    "Memory Management AI Agent/6. StructMem.md",
+    "Memory Management AI Agent/7. xMemory.md",
+    "Memory Management AI Agent/5. PAMU.md",
     "Memory Management AI Agent/4. H-Mem.md",
+    "Memory Management AI Agent/3. Memori.md",
     "Memory Management AI Agent/2. GAM.md",
     "Memory Management AI Agent/1. TA Mem.md",
     "career/Career plan.md",
@@ -233,9 +236,6 @@
     "AdaptiveBeliefMem",
     "Prompt/Memory Opt 2.0.md",
     "Prompt/calculus MCP.md",
-    "PharmaLens/Pharamacist.md",
-    "PharmaLens/laravel_cmd.md",
-    "PharmaLens/DB schema.md",
     "Prompt",
     "PharmaLens",
     "Claude Code",
