@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2d19ad006c9dbef6",
+        "id": "92dfa14dce0c551b",
         "type": "tabs",
         "children": [
           {
-            "id": "bc0795648106c157",
+            "id": "178d1a95f2a5ba35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Memory Management AI Agent/8. A-Mem.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -186,7 +186,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc0795648106c157",
+  "active": "178d1a95f2a5ba35",
   "lastOpenFiles": [
     "Memory Management AI Agent/8. A-Mem.md",
     "Memory Management AI Agent/7. xMemory.md",
