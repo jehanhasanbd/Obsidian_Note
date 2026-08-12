@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2d19ad006c9dbef6",
+        "id": "612144464b5d33c6",
         "type": "tabs",
         "children": [
           {
-            "id": "bc0795648106c157",
+            "id": "659b461afad114e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management AI Agent/8. A-Mem.md",
-                "mode": "preview",
+                "file": "Memory Management AI Agent/11. E-mem.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. A-Mem"
+              "title": "11. E-mem"
             }
           }
         ]
@@ -186,8 +186,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc0795648106c157",
+  "active": "659b461afad114e7",
   "lastOpenFiles": [
+    "Memory Management AI Agent/10. FluxMem.md",
+    "Memory Management AI Agent/11. E-mem.md",
+    "Memory Management AI Agent/9. MEMORA.md",
     "Memory Management AI Agent/8. A-Mem.md",
     "Memory Management AI Agent/7. xMemory.md",
     "Memory Management AI Agent/6. StructMem.md",
@@ -217,10 +220,7 @@
     "AdaptiveBeliefMem/readme.md",
     "AdaptiveBeliefMem/Complete Prompt.md",
     "Prompt/Memory Optimization.md",
-    "Prompt/Memory Opt 3.0.md",
-    "Prompt/backup readme.md",
     "AdaptiveBeliefMem",
-    "Prompt/Memory Opt 2.0.md",
     "Prompt",
     "PharmaLens",
     "Claude Code",
